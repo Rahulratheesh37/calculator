@@ -1,0 +1,12 @@
+button{
+    background-color:rgb(205, 212, 198);
+margin: 0px;
+width: 150px;
+}
+#output{
+    color:black;
+
+}
+#input{
+    color: rgb(91, 86, 86);
+}
